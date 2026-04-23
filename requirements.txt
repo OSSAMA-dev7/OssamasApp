@@ -1,3 +1,6 @@
 sounddevice>=0.4.5
 vosk>=0.3.45
 numpy>=1.21.0
+# to install the requirements 
+````bash 
+pip install sounddevice>=0.4.5 vosk>=0.3.45 numpy>=1.21.0
