@@ -24,5 +24,5 @@ A beautiful desktop application that converts speech to text in **English** and 
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/OssamasApp.git
+git clone https://github.com/OSSAMA-dev7/OssamasApp.git
 cd OssamasApp
